@@ -1,0 +1,56 @@
+body, h1, h2, h3, h4, h5, h6 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+
+h1 h2 {
+
+    text-align: center;
+}
+nav {
+    text-align: center;
+   
+  }
+
+  .centerp {
+    text-align: center;
+}
+
+.centerh {
+    text-align: center;
+}
+
+.centerli {
+    text-align: center;
+}
+
+.musiclist {
+
+    text-align: center;
+}
+
+.ulcenter {
+
+    text-align: center;
+    list-style-position: inside
+}
+
+h1 {
+
+    color: rgb(209, 33, 33);
+}
+
+h2 {
+
+    color: rgb(45, 85, 214);
+}
+
+h3 {
+
+    color: rgb(228, 180, 51);
+}
+
+li {
+
+    text-align: center;
+}
+
